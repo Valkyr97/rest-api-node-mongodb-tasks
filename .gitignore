@@ -1,0 +1,8 @@
+# distribution
+/dist
+
+# enviroment variables
+.env
+
+# Modules
+/node_modules
